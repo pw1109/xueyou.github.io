@@ -13,12 +13,20 @@
         {"douban":"http://www.douban.com/people/linjunjie1103/"}
     ],
     "summaries":[
-        "熟练Java、Javascript、掌握Android开发，SQL、PL/SQL；用过C、C#、VBA等其他编程语言。",
-        "深谙面向对象设计原则、掌握多种设计模式并能自如应用于日常开发；熟悉 Java 多线程、同步模型。",
-        "掌握限流、隔离、熔断、降级等高可用架构设计手段；有高并发场景下分布式架构设计、开发的经验。",
-        "开源项目Apache RocketMQ Top Contributor、代码贡献者；知乎专栏RocketMQ详解创立者。",
-        "突出的学习能力和学习热情，在 MOOC 课程完成 3 门证书；善利用文档、StackOverflow 解决问题。",
-        "擅用重构手段，有代码洁癖，把代码的“可维护性”和“可读性”置于首位；代码质量曾被多家大型互联网公司领导赞扬。"
+        "精通HTML+CSS页面结构布局，掌握各主流浏览器的兼容问题",
+		"精通Vue框架，熟悉AangularJs、React等框架，有React+AntD+Flux，Vue+VueX+Mint UI开发项目的经验",
+		"熟练掌握并使用Bootstrap、Swiper、iScroll、Zepto等主流框架、插件，快速进行PC端和移动端的UI构建",
+		" 对jQuery和原生JS都有深入的了解和灵活运用，并熟悉网站性能的优化方法",
+		"熟练掌握NodeJs、RequireJs,了解前端模块化规范AMD/CMD/CommonJS"
+		"熟悉前端工程化和构建工具：webpack、gulp；熟悉git、SVN管理工具"
+		"熟练使用移动端框架Mui/AppCan进行混合式App开发"
+		"熟练微信小程序和微信的二次开发"
+		"熟练掌握Ajax技术，能熟练使用JSONP进行跨域以及与后台合作实现数据的交互更新等"
+		"熟练使用Canvas、CSS3等技术来制作页面的动图"
+		"了解MongoDB和MySQL数据库"
+		"熟悉包管理工具npm/yarn以及预编译语言Sass/Less"
+		"有过Hybrid开发经验，熟练调用手机硬件设备使用户体验更加丰富"
+		"精通弹性盒布局及响应式布局，可以有效解决各种手机端的屏幕适配问题"
     ],
     "workExperiences":[
         {
@@ -191,44 +199,15 @@
                     "summary":"独立编写快速搜索小插件，使用Spring MVC+HttpClient完成搜索推荐（如热门微博）的数据格式适配。",
                     "details":[]
                 }]
-        },
-        {
-            "title":"培训经历",
-            "fragments":[{
-                "name":"甲骨文人才发展中心",
-                "comment":"2013校招培训项目",
-                "startDate":"2013.09",
-                "endDate":"2013.12",
-                "summary":"",
-                "details":["校招深圳研发中心B组组长，第一届甲骨文编程马拉松中获带领小组获项目“创新奖”，本人获“优秀小组长"]
-            },
-                {
-                    "name":"甲骨文大学",
-                    "comment":"技术培训",
-                    "startDate":"2013.7",
-                    "endDate":"2013.9",
-                    "summary":"参与甲骨文大学(对外)Java7 、SQL、PL/SQL、Oracle Application Framework（OAF）等7门技术培训课程。",
-                    "details":[]
-                }]
-        },
-        {
-            "title":"英语能力",
-            "points":["无障碍阅读原版技术书籍、文档、StackOverflow","能与跨国团队协作","英语六级、剑桥商务英语国际证书。"]
         }
     ],
 
     "educations":[{
-        "university":"华南农业大学",
-        "studyType":"本科",
-        "major":"软件工程",
-        "startDate":"2009.07",
-        "endDate":"2013.07",
-        "gpa":"3.93/5.00",
-        "scholarships":["2009-2010校二等奖学金","2010-2011校二等奖学金","2011-2012校社会实践学金"],
-        "experiences":[
-            "英语口语协会会长，信息技术中心常务部副部长，软件学院助理班主任",
-            "社团类荣誉：2010年度华南农业大学“优秀团干部”、2009年度华南农业大学“优秀团员”",
-            "实践类荣誉：2010亚运会志愿服务“志愿者先进个人”、“突出贡献奖”、第四届“新鲜人”才艺大赛二等奖"
+        "university":"河南职业技术学院",
+        "studyType":"专科",
+        "major":"互联网软件开发",
+        "startDate":"2011.09",
+        "endDate":"2014.07"
         ]
     }
     ]
